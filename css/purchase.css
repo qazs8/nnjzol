@@ -49,7 +49,7 @@ p {
 }
 
 .card-img {
-  background-image: url(/nnjz/img/nainiwan.png);
+  background-image: url(../img/nainiwan.png);
   background-size: cover;
   height: 40%;
   width: 100%;
@@ -97,7 +97,7 @@ svg {
 }
 
 .card-img01 {
-  background-image: url(/nnjz/img/bale.png);
+  background-image: url(../img/bale.png);
   background-size: cover;
   height: 40%;
   width: 100%;
@@ -106,7 +106,7 @@ svg {
 }
 
 .card-img02 {
-  background-image: url(/nnjz/img/mou.png);
+  background-image: url(../img/mou.png);
   background-size: cover;
   height: 40%;
   width: 100%;
@@ -115,7 +115,7 @@ svg {
 }
 
 .card-img03 {
-  background-image: url(/nnjz/img/mangguo.png);
+  background-image: url(../img/mangguo.png);
   background-size: cover;
   height: 40%;
   width: 100%;
@@ -124,7 +124,7 @@ svg {
 }
 
 .card-img04 {
-  background-image: url(/nnjz/img/log.png);
+  background-image: url(../img/log.png);
   background-size: cover;
   height: 40%;
   width: 100%;
@@ -133,7 +133,7 @@ svg {
 }
 
 .card-img05 {
-  background-image: url(/nnjz/img/paopao.png);
+  background-image: url(../img/paopao.png);
   background-size: cover;
   height: 40%;
   width: 100%;
@@ -142,7 +142,7 @@ svg {
 }
 
 .card-img06 {
-  background-image: url(/nnjz/img/naicha.png);
+  background-image: url(../img/naicha.png);
   background-size: cover;
   height: 40%;
   width: 100%;
@@ -151,7 +151,7 @@ svg {
 }
 
 .card-img07 {
-  background-image: url(/nnjz/img/guolao_boluomi.png);
+  background-image: url(../img/guolao_boluomi.png);
   background-size: cover;
   height: 40%;
   width: 100%;
@@ -160,7 +160,7 @@ svg {
 }
 
 .card-img08 {
-  background-image: url(/nnjz/img/pingpang.png);
+  background-image: url(../img/pingpang.png);
   background-size: cover;
   height: 40%;
   width: 100%;
