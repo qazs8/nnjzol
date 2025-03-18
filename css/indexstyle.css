@@ -42,9 +42,12 @@ p {
   font-style: italic;
 }
 
-.slogan,
-.inc {
+.slogan{
   font-size: 10px;
+}
+
+.inc {
+  font-size: 5px;
 }
 
 .inc_nnjz {
