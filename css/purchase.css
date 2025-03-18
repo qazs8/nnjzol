@@ -8,6 +8,7 @@
 }
 
 body {
+  background-color: #fff;
   font-family: "WenQuanYi Bitmap Song 12px", sans-serif;
   font-weight: normal;
 }
@@ -20,7 +21,7 @@ p {
 
 .hang {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .btn {
@@ -54,7 +55,6 @@ p {
   height: 40%;
   width: 100%;
   border-radius: 0.5rem;
-  transition: 0.3s ease;
 }
 
 .card-info {
